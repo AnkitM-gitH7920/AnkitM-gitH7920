@@ -33,15 +33,7 @@ I'm a **Student & Developer** — passionate about building cool things on the w
 ### 🎵 Now Playing
 
 [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME)
-
 ---
-
-### 📊 Top Languages
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
 <p align="center">
