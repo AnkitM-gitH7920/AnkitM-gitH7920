@@ -35,7 +35,3 @@ I'm a **Student & Developer** — passionate about building cool things on the w
 [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME)
 ---
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnkitM-gitH7920&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
